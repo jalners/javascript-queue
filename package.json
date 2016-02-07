@@ -1,0 +1,14 @@
+{
+  "name": "javascript-queue",
+  "version": "0.1.0",
+  "description": "Data Structures in JavaScript: Queue",
+  "author": "Alexey Neretin <jalners@yandex.ru>",
+  "license": "MIT",
+  "homepage": "https://github.com/jalners/javascript-queue",
+  "scripts": {
+    "test": "./node_modules/.bin/jasmine-node spec"
+  },
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}
